@@ -72,9 +72,9 @@ a:hover {
     overflow-y: auto;
   }
   #menu a {
-    padding: 1rem 0;
+    padding: 2.5rem 0;
     margin: 0 1rem;
-    border-bottom: 2px solid white;
+    border-bottom: 2px dashed white;
     text-align: center;
   }
   #btn-mobile {
